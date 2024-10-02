@@ -15,7 +15,7 @@ Ele tem informações como nome, idade, endereço, formação e experiências pr
 fala oque eu quero proporcionar a empresa
 
 ## formação
-onde estudei e curos que fiz
+onde estudei e cursos que fiz
 
 ## experiencias profisionais
 onde trabalhei
@@ -25,3 +25,5 @@ linguas que falo
 
 ## referrencis pessoais
 dados sobre mim
+
+foi ultilizado divs, tags h1, hr, p, p, para formar uma boa estrutura 
