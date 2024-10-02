@@ -7,6 +7,21 @@ Para fazer esse curriculo, ultilizei o replit em html e css, com o id:"jabiru". 
 ---
 
 ## É dividida em <head> e <body> onde ficam as informações
-(Objetivo, Formação, Experiências Profissionais, Aperfeiçoamento, Idiomas e Referências Pessoais) são organizadas usando é ultilizado para os paragráfos.
+
 A parte inicial é o cabeçalho com informações pessoais um link qe seria da imagem.
 Ele tem informações como nome, idade, endereço, formação e experiências profissionais, além de imagens e seções separadas por títulos e linhas, por exemplo, cada parte tem eu titulo e seu dados.
+
+##Objetivo 
+fala oque eu quero proporcionar a empresa
+
+##formação
+onde estudei e curos que fiz
+
+##experiencias profisionais
+onde trabalhei
+
+##idiomas
+linguas que falo
+
+#referrencis pessoais
+dados sobre mim
