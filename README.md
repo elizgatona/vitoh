@@ -6,7 +6,7 @@ Para fazer esse curriculo, ultilizei o replit em html e css, com o id:"jabiru". 
 
 ---
 
-## É dividida em <head> e <body> onde ficam as informações
+## É dividida em divs onde ficam as informações
 
 A parte inicial é o cabeçalho com informações pessoais um link que seria da imagem, img src="...
 Ele tem informações como nome, idade, endereço, formação e experiências profissionais, além de imagens e seções separadas por títulos e linhas, por exemplo, cada parte tem eu titulo e seu dados.
