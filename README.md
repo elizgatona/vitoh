@@ -26,7 +26,9 @@ linguas que falo
 ## referrencis pessoais
 dados sobre mim
 
-## foi ultilizado divs, tags h1, hr, p, p, para formar uma boa estrutura 
+## foi ultilizado 
+- divs,
+- tags h1, hr, p, p, para formar uma boa estrutura 
 
 ### CONCLUSÃO
 O codigo poderia ser melhorado, hoje em dia percebi os erro que cometi, com algumas divs abertas que não foram fechadas e algumas coisas denecessárias.
