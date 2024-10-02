@@ -1,4 +1,4 @@
-# vitoh
+# elizlinda
 curricuo
 Sou técnica em Desenvolvimento de Sistemas com experiência como Auxiliar Administrativa. Iniciei minha trajetória profissional como Menor Aprendiz na Escola La Salle, onde desenvolvi habilidades de comunicação e compreensão trabalhando em equipe. Meu currículo foi feito para me propor oportunidades que me permitam aplicar meus conhecimentos técnicos e contribuir para o sucesso da equipe.
 Para fazer esse curriculo, ultilizei o replit em html e css, com o id:"jabiru".  Usei a estrutura basica.
@@ -28,7 +28,12 @@ dados sobre mim
 
 ## foi ultilizado 
 - divs,
-- tags h1, hr, p, p, para formar uma boa estrutura 
+- tags
+- h1
+- hr
+-  p
+-  p
+-   para formar uma boa estrutura basica 
 
 ### CONCLUSÃO
 O codigo poderia ser melhorado, hoje em dia percebi os erro que cometi, com algumas divs abertas que não foram fechadas e algumas coisas denecessárias.
