@@ -3,22 +3,8 @@ html {
   width: 100%;
 }
 
-#body {
-  background-color: #fb93d5;
+#jabiru{
+  display: flex;
+
 }
 
-#ttk {
-  background-color: #f000d0;
-}
-
-#insta {
-  background-color: #850073;
-}
-
-#links {
-  background-color: #ff006f;
-}
-
-#tudo {
-  background-color: #bf6384;
-}
